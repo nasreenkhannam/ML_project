@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Generated data/model/report artifacts
+data/*.csv
+models/*.joblib
+models/*.pkl
+models/model_name.txt
+reports/*.png
+reports/*.csv
+predictions.csv
