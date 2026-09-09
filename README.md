@@ -1,4 +1,4 @@
-# Breast Cancer Classification — Interview-Ready ML Project
+# Breast Cancer Classification — ML Project
 
 A clean, modular machine learning project that predicts whether a breast tumor is **malignant (0)** or **benign (1)** using the scikit-learn Breast Cancer Wisconsin Diagnostic dataset.
 
